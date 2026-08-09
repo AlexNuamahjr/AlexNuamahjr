@@ -1,7 +1,7 @@
 # 💫 About Me
 
 # Senior Software Engineer
-Senior Full-Stack Engineer with four years of experience building scalable backend systems, modern web and mobile applications, and robust APIs. Passionate about clean architecture, performance, and solving complex business problems with practical and maintainable solutions
+Senior Full-Stack Engineer with a little over four years of experience building scalable backend systems, modern web and mobile applications, and robust APIs. Passionate about clean architecture, performance, and solving complex business problems with practical and maintainable solutions
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AlexanderNuamahJr)
